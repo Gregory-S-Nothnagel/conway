@@ -7,8 +7,8 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-                                             //
-//  initShaders.js
+//
+//  initShaders function not created by me, came with initShaders.js we were given in class
 //
 
 function initShaders( gl, vertexShaderId, fragmentShaderId )
